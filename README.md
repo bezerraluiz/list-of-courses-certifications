@@ -34,4 +34,4 @@ Below is a list of the courses I completed. There are currently `82` courses wit
 
 #### NestJS for REST API with TypeORM, JWT Authentication and Testing
 
-- NestJS for REST API with TypeORM, JWT Authentication and Testing: Basic NestJS CRUD with JWT authentication and testing _School: [UniSatc - SATC University](ude.my/UC-4df26e99-e68a-41f0-9f3e-af7fb157abbf)._ _Duration: 4h._ :paperclip: [here](/certificates/udemy-nestjs.pdf)
+- NestJS for REST API with TypeORM, JWT Authentication and Testing: Basic NestJS CRUD with JWT authentication and testing _School: [Udemy]([ude.my/UC-4df26e99-e68a-41f0-9f3e-af7fb157abbf](https://www.udemy.com/certificate/UC-4df26e99-e68a-41f0-9f3e-af7fb157abbf/))._ _Duration: 24h._ :paperclip: [here](/certificates/udemy-nestjs.pdf)
